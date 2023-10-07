@@ -1,0 +1,5 @@
+export {default as HeroImage} from "./heronataivie.png"
+export {default as Phone} from "./phone.png"
+export {default as Laptop} from "./laptop.png"
+export {default as Perfume} from "./perfume.png"
+export {default as Skincare} from "./skincare.png"
